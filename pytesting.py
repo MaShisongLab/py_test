@@ -1,4 +1,4 @@
-class SingleCellGGM:
+class pytesting:
     
     gene_num = [];
     gene_name = [];
