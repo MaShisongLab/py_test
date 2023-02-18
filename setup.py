@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name='pytest',
+    name='pytesting',
     version='0.1',
     license='BSD-3-Clause',
     author='MaShisongLab',
-    py_modules = ['pytest'],
-    url = 'https://github.com/MaShisongLab/pytest',
-    keywords='TestPackage',
+    py_modules = ['pytesting'],
+    url = 'https://github.com/MaShisongLab/pytesting',
+    keywords='pytesting',
     install_requires=['numpy','pandas'],
 )
 
