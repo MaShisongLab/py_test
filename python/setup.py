@@ -6,7 +6,7 @@ setup(
     license='BSD-3-Clause',
     author='MaShisongLab',
     py_modules = ['pytesting'],
-    url = 'https://github.com/MaShisongLab/pytesting',
+    url = 'https://github.com/MaShisongLab/pytesting/tree/main/python',
     keywords='pytesting',
     install_requires=['numpy','pandas'],
 )
